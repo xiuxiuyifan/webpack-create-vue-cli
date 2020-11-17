@@ -16,4 +16,4 @@ export default {
 .example {
   color: red !important;
 }
-</style>re
+</style>
