@@ -11,10 +11,10 @@
 ### 引入plugin扩展
 
 ```bash
-yarn add vue-html-loader vue-loader vue-template-compiler -D
+yarn add vue-loader vue-template-compiler -D
 ```
-#### vue-html-loader（解析template） 
 #### vue-loader（解析.vue文件）
+
 #### vue-template-compiler（编译器，把vue的内容编译出来）
 
 ### 阅读Vue loader文档
