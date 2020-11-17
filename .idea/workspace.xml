@@ -15,7 +15,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../webpack/webpack-create-vue-cli" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -36,11 +36,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605153498601</updated>
-      <workItem from="1605153500706" duration="5742000" />
+      <workItem from="1605153500706" duration="6079000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2980" y="111" key="FileChooserDialogImpl" timestamp="1605162050827">
+      <screen x="1920" y="-349" width="2560" height="1410" />
+    </state>
+    <state x="2980" y="111" key="FileChooserDialogImpl/0.0.1920.1050/1920.-349.2560.1410@1920.-349.2560.1410" timestamp="1605162050827" />
   </component>
 </project>
